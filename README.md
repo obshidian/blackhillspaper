@@ -1,0 +1,2 @@
+# blackhillspaper
+This is my personal narrative paper for Freshman Year Writing.  It's written using Spacemacs + latex-mode, and it's written in LaTeX markup for maximal cool-lookingness.  It's written around my trip to the Black Hills in South Dakota.  It's also my first paper written using Git, and I really love being able to track changes and revert to old ones this way as opposed to saving a document over and over again!
